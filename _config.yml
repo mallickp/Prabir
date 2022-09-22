@@ -1,6 +1,14 @@
 title: Prabir Kumar Mallick
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+  <p align="center">
+  <a href="">Resume</a> |
+  <a href="">LinkedIn</a> |
+  <a href="https://github.com/mallickp">GitHub</a>
+  
+  <br>   
+  I am working as Development Architect in SAP LABS India. I have total 15+ years of experience with various technology i.e JAVA,ABAP,UI5,React,Angular,Python.
+  
+  <br>
+  </p>
 theme: jekyll-theme-minimal
